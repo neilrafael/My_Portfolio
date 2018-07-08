@@ -2,7 +2,7 @@ ul > li {
 	display: inline;
 	float:right;
 	margin-right: 40px;
-	
+
 	height: 35px;
 	margin-top: 30px;
 }
@@ -103,7 +103,7 @@ section > p{
 }
 section{
 
-	padding:20px; 
+	padding:20px;
 }
 .contact-form{
 	width: 800px;
@@ -115,7 +115,7 @@ section{
 }
 .submit-btn{
 	background-color:#71b52b;
-	color: white; 
+	color: white;
 	width: 200px;
 	height: 50px;
 	box-shadow: 0px 0px 0px;
@@ -140,24 +140,6 @@ section{
 }
 .message{
 	height: 100px;
-}
-.facebook{
-display: inline;
-	margin-top: 310px;
-	margin-left: 40px;
-	    margin-bottom: -29px;
-}
-#text-addmefb,
-#text-addmetwitter{
-	display: inline;
-}
-
-.social-media-icons{
-	display: inline;
-
-}
-.twitter{
-	margin-top: 100px;
 }
 
 
@@ -184,7 +166,7 @@ display: inline;
     line-height: 1.4;
     padding: .25em;
     text-decoration: none;
-    
+
   }
 
   a:hover {
@@ -199,17 +181,17 @@ display: inline;
   font-weight: 400;
   line-height: 45px;
   margin: 0 0 2em;
-  max-width: 160px; 
+  max-width: 160px;
   position: relative;
   text-decoration: none;
   text-transform: uppercase;
-  width: 100%;   
- 
+  width: 100%;
+
 }
 
 @media screen and (min-width: 600px) {
     .btn {
-    margin: 0 1em 2em;     
+    margin: 0 1em 2em;
   }
 }
   .btn:hover { text-decoration: none; }
@@ -223,7 +205,7 @@ display: inline;
 span {
     z-index: 20;
   }
-  
+
   .btn-4:after {
     background: #fff;
     content: "";
