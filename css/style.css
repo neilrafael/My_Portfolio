@@ -146,17 +146,20 @@ section{
 	position: relative;
 	width: 50%;
 	max-width: 200px;
+<<<<<<< HEAD
 
+=======
+	cursor: pointer;
+	display: inline-block;
+	margin: 10px;
+>>>>>>> 8735b7819b65da879fe95559c6315ec4c93086db
 }
 .gallery-img{
 	width: 100%;
 	height: auto;
 	border-radius: 3px;
-	display: inline;
-
 }
 .overlay{
-
 	position: absolute;
 	bottom: 0;
 	left: 0;
@@ -178,11 +181,12 @@ transform:scale(1);
 	font-size: 20px;
 	text-transform: uppercase;
 	position: absolute;
-	top: 50%;	
+	top: 50%;
 	left: 50%;
 	transform:translate(-50%, -50%);
 
 }
 
-
-
+.gallery-section {
+	text-align: center;
+}
