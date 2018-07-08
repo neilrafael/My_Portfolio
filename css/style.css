@@ -66,6 +66,7 @@ section > .skills-container > img {
 
 section > div > img:hover {
 	filter: grayscale(0%);
+	cursor: pointer;
 }
 h3{
 	color: #2e7d32;
@@ -145,7 +146,7 @@ section{
 	position: relative;
 	width: 50%;
 	max-width: 200px;
-	
+
 }
 .gallery-img{
 	width: 100%;
